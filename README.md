@@ -1,9 +1,12 @@
 This is the official code of the paper "A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models"
 
 # How to Run
-## 0. Prepare Datasets
+## 0. Prepare 
+### Datasets
 [Google Drive](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2)
 You can check the details of dataset from [Time-Series-Library](https://github.com/thuml/Time-Series-Library/tree/main)
+### Key
+Add your wandb key to the line ```wandb.login(key='your key')``` at the file ~/exp/exp_long_term_forecasting_ray_tune.py
 
 ## 1. Set the Environment 
 ```bash
