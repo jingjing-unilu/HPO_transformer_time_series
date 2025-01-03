@@ -47,11 +47,14 @@ nohup ./scripts/long_term_forecast_hyperS/0_all_experiments_1.sh > log0 &
 ### Citation
 If you find this repo useful, please cite our paper.
 ```
-@inproceedings{xu2023transformer,
-  title={A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models},
-  author={XU, Jingjing and WU, Caesar and Li, Yuan-Fang, Gregoire Danoy and BOUVRY, Pascal},
-  booktitle={},
-  year={2024}
+@misc{xu2025unifiedhyperparameteroptimizationpipeline,
+      title={A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models}, 
+      author={Jingjing Xu, Caesar Wu, Yuan-Fang Li, Grégoire Danoy, Pascal Bouvry},
+      year={2025},
+      eprint={2501.01394},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.01394}, 
 }
 ```
 ### Acknowledgement
